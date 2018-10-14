@@ -16,7 +16,7 @@ CDIPpy
 
 
 
-CDIPpy handles access to CDIP NetCDF data files
+CDIPpy handles access to CDIP NetCDF data files.
 
 
 * Free software: BSD license
