@@ -33,7 +33,7 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
     ],
-    description="hCDIPpy handles access to CDIP NetCDF data files",
+    description="CDIPpy handles access to CDIP NetCDF data files",
     entry_points={
         'console_scripts': [
             'cdippy=cdippy.cli:main',
